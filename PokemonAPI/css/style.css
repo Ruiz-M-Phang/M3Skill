@@ -1,0 +1,20 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    min-height: 100vh;
+}
+
+html {
+    font-size: 62.5%; /* font is 10px */
+    scroll-behavior: smooth;
+}
+
+.card {
+    width: 40rem;
+    height: 40rem;
+    border: 5px solid black;
+}
