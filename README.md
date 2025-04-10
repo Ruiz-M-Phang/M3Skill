@@ -1,3 +1,3 @@
 # M3Skill
 
-    - Hier lever ik mijn opdrachten in.
+    - Hier lever ik mijn skill opdrachten in.
